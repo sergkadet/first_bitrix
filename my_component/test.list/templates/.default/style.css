@@ -1,0 +1,14 @@
+div.news-list
+{
+	word-wrap: break-word;
+    margin: 0 10%;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+p {
+    width: 33%;
+    float: left;
+}
